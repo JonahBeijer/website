@@ -1,0 +1,132 @@
+header {
+    background-color: white;
+    padding: 20px;
+    padding-left: 80px;
+    border-bottom: 1px solid #3780ff;
+    margin: 0px;
+
+
+}
+
+.logo {
+    width: 100px;
+}
+
+.hoofd {
+    margin: 60px;
+    display: flex;
+    border-bottom: 1px solid black;
+    padding-left: 80px;
+    padding-bottom: 50px;
+    margin-right: 120px;
+    
+    
+}
+
+h1,
+h2 {
+    color: #3780ff;
+}
+
+.voorbeeld {
+    width: 600px;
+    border: 1px solid black;
+
+
+}
+
+.beschrijving {
+    align-items: flex-end;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+a nav{
+    text-decoration: none;
+    color: #679cf8;
+}
+
+a{text-decoration: none;
+padding-inline: 40px;}
+
+.knop {
+    border: 1px solid black;
+    border-radius: 50px;
+    font-size: 30px;
+    display: flex;
+    padding-left: 180px;
+    background-color: #3780ff58;
+}
+
+a:hover {background-color: #3780ff;
+color: #3780ff58;}
+
+.hoofd2 {
+    
+    display: flex;
+margin-inline: 200px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    gap: 50px;
+    
+}
+
+.sub2 {
+    background-color: #3780ff58;
+    border: 2px solid #3780ff;
+    width: 2000px;
+    padding-left: 20px;
+
+
+}
+
+.beschrijving2 {
+    padding-left: 80px;
+}
+
+.hoofd3 {
+    background-color: #3780ff58;
+    margin-inline: 60px;
+}
+
+.sub3 {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.voorbeeld2 {
+    width: 40%;
+    display: flex;
+    border-radius: 50%;
+    padding-inline: 100px;
+}
+
+.voorbeeld3 {
+    display: flex;
+    padding: 50px;
+    margin-inline: 10px;
+}
+
+.nummer1 {
+    padding-left: 300px;
+}
+
+.nummer2 {
+    padding-left: 300px;
+}
+
+.nummer3 {
+    padding-left: 200px;
+}
+footer{background-color: #3780ffb9;
+    padding: 30px;
+    display: flex;
+    color: #3780ff58;
+    padding-left: 400px;
+    gap: 30px;
+    margin-inline: 60px;
+}
+
+
